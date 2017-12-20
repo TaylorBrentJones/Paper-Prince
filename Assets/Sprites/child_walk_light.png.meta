@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 90cf1bb18b7630349a5ddaf3884f0ee7
+timeCreated: 1463677215
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: child_walk_light_0
+    21300002: child_walk_light_1
+    21300004: child_walk_light_2
+    21300006: child_walk_light_3
+    21300008: child_walk_light_4
+    21300010: child_walk_light_5
+    21300012: child_walk_light_6
+    21300014: child_walk_light_7
+    21300016: child_walk_light_8
+    21300018: child_walk_light_9
+    21300020: child_walk_light_10
+    21300022: child_walk_light_11
+    21300024: child_walk_light_12
+    21300026: child_walk_light_13
+    21300028: child_walk_light_14
+    21300030: child_walk_light_15
+    21300032: child_walk_light_16
+    21300034: child_walk_light_17
+    21300036: child_walk_light_18
+    21300038: child_walk_light_19
+    21300040: child_walk_light_20
+    21300042: child_walk_light_21
+    21300044: child_walk_light_22
+    21300046: child_walk_light_23
+    21300048: child_walk_light_24
+    21300050: child_walk_light_25
+    21300052: child_walk_light_26
+    21300054: child_walk_light_27
+    21300056: child_walk_light_28
+    21300058: child_walk_light_29
+    21300060: child_walk_light_30
+    21300062: child_walk_light_31
+    21300064: child_walk_light_32
+    21300066: child_walk_light_33
+    21300068: child_walk_light_34
+    21300070: child_walk_light_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: child_walk_light_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 12}
+        - {x: -14, y: -31}
+        - {x: 9, y: -31}
+        - {x: 13, y: -27}
+        - {x: 13, y: 1}
+        - {x: 9, y: 12}
+    - name: child_walk_light_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 2}
+        - {x: 9, y: 12}
+    - name: child_walk_light_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 12}
+        - {x: -14, y: -31}
+        - {x: -10, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: -7}
+        - {x: 12, y: 9}
+        - {x: 9, y: 12}
+    - name: child_walk_light_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -13, y: 9}
+        - {x: -14, y: 4}
+        - {x: -14, y: -24}
+        - {x: -6, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 8}
+        - {x: 9, y: 11}
+    - name: child_walk_light_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 12}
+        - {x: -14, y: -31}
+        - {x: -10, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: -7}
+        - {x: 12, y: 9}
+        - {x: 9, y: 12}
+    - name: child_walk_light_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 12}
+        - {x: -14, y: -31}
+        - {x: 11, y: -31}
+        - {x: 13, y: -28}
+        - {x: 13, y: 1}
+        - {x: 9, y: 12}
+    - name: child_walk_light_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -13, y: 10}
+        - {x: -14, y: 6}
+        - {x: -14, y: -24}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 12}
+    - name: child_walk_light_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 11}
+        - {x: -13, y: 6}
+        - {x: -13, y: -32}
+        - {x: 4, y: -32}
+        - {x: 7, y: -31}
+        - {x: 13, y: -27}
+        - {x: 13, y: 1}
+        - {x: 9, y: 11}
+    - name: child_walk_light_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -13, y: 10}
+        - {x: -14, y: 6}
+        - {x: -14, y: -24}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 12}
+    - name: child_walk_light_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 11}
+        - {x: -6, y: 11}
+        - {x: -10, y: 6}
+        - {x: -10, y: -30}
+        - {x: -4, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -30}
+        - {x: 11, y: -24}
+        - {x: 11, y: 8}
+    - name: child_walk_light_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 10}
+        - {x: -13, y: -2}
+        - {x: -13, y: -30}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -31}
+        - {x: 11, y: 6}
+        - {x: 6, y: 10}
+    - name: child_walk_light_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 11}
+        - {x: -6, y: 11}
+        - {x: -10, y: 6}
+        - {x: -10, y: -30}
+        - {x: -7, y: -31}
+        - {x: 6, y: -31}
+        - {x: 9, y: -27}
+        - {x: 11, y: -11}
+        - {x: 11, y: 6}
+    - name: child_walk_light_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 11}
+        - {x: -6, y: 11}
+        - {x: -10, y: 6}
+        - {x: -10, y: -31}
+        - {x: 5, y: -31}
+        - {x: 12, y: -23}
+        - {x: 12, y: 5}
+    - name: child_walk_light_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -11, y: 4}
+        - {x: -12, y: -7}
+        - {x: -12, y: -29}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 10}
+        - {x: 10, y: 11}
+    - name: child_walk_light_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -13, y: -1}
+        - {x: -13, y: -27}
+        - {x: -9, y: -32}
+        - {x: 1, y: -32}
+        - {x: 11, y: -29}
+        - {x: 14, y: -24}
+        - {x: 14, y: 1}
+        - {x: 10, y: 10}
+    - name: child_walk_light_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -11, y: 4}
+        - {x: -12, y: 1}
+        - {x: -12, y: -23}
+        - {x: -8, y: -32}
+        - {x: 4, y: -32}
+        - {x: 14, y: -27}
+        - {x: 14, y: 10}
+        - {x: 10, y: 11}
+    - name: child_walk_light_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 11}
+        - {x: -6, y: 11}
+        - {x: -10, y: 9}
+        - {x: -10, y: -24}
+        - {x: -4, y: -31}
+        - {x: -1, y: -32}
+        - {x: 3, y: -32}
+        - {x: 8, y: -29}
+        - {x: 12, y: -20}
+        - {x: 12, y: 6}
+    - name: child_walk_light_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 11}
+        - {x: -6, y: 11}
+        - {x: -10, y: 9}
+        - {x: -10, y: -32}
+        - {x: 7, y: -32}
+        - {x: 10, y: -24}
+        - {x: 11, y: -12}
+        - {x: 11, y: 7}
+    - name: child_walk_light_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -13, y: 9}
+        - {x: -14, y: -6}
+        - {x: -14, y: -20}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 11}
+    - name: child_walk_light_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 11}
+        - {x: -13, y: 8}
+        - {x: -14, y: -4}
+        - {x: -14, y: -21}
+        - {x: -10, y: -31}
+        - {x: 10, y: -31}
+        - {x: 13, y: -27}
+        - {x: 13, y: 4}
+        - {x: 10, y: 11}
+    - name: child_walk_light_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -14, y: 9}
+        - {x: -14, y: -25}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -26}
+        - {x: 13, y: 3}
+        - {x: 6, y: 11}
+    - name: child_walk_light_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 10}
+        - {x: -12, y: 7}
+        - {x: -14, y: -2}
+        - {x: -14, y: -24}
+        - {x: -4, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 8}
+        - {x: 6, y: 10}
+    - name: child_walk_light_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -14, y: 9}
+        - {x: -14, y: -25}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -26}
+        - {x: 13, y: 3}
+        - {x: 6, y: 11}
+    - name: child_walk_light_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -13, y: 9}
+        - {x: -14, y: -6}
+        - {x: -14, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 8}
+        - {x: 9, y: 11}
+    - name: child_walk_light_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -13, y: 8}
+        - {x: -14, y: -3}
+        - {x: -14, y: -21}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 13, y: -31}
+        - {x: 13, y: 6}
+        - {x: 8, y: 11}
+    - name: child_walk_light_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 10}
+        - {x: -13, y: 10}
+        - {x: -13, y: -32}
+        - {x: 3, y: -32}
+        - {x: 13, y: -21}
+        - {x: 13, y: 2}
+        - {x: 12, y: 8}
+    - name: child_walk_light_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -13, y: 8}
+        - {x: -14, y: -3}
+        - {x: -14, y: -21}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 13, y: -31}
+        - {x: 13, y: 6}
+        - {x: 8, y: 11}
+    - name: child_walk_light_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 11}
+        - {x: -11, y: 9}
+        - {x: -11, y: -21}
+        - {x: -6, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -24}
+        - {x: 10, y: 8}
+        - {x: 8, y: 11}
+    - name: child_walk_light_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 10}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 5}
+        - {x: 11, y: 10}
+    - name: child_walk_light_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 11}
+        - {x: -11, y: 9}
+        - {x: -11, y: -29}
+        - {x: -3, y: -31}
+        - {x: 10, y: -31}
+        - {x: 10, y: 7}
+        - {x: 8, y: 11}
+    - name: child_walk_light_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -12, y: 4}
+        - {x: -12, y: -27}
+        - {x: -5, y: -31}
+        - {x: 10, y: -31}
+        - {x: 10, y: 10}
+        - {x: 9, y: 11}
+    - name: child_walk_light_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -14, y: 4}
+        - {x: -14, y: -25}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 8}
+        - {x: 7, y: 11}
+    - name: child_walk_light_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 10}
+        - {x: -14, y: 4}
+        - {x: -14, y: -22}
+        - {x: -6, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: 2}
+        - {x: 8, y: 10}
+    - name: child_walk_light_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -14, y: 1}
+        - {x: -14, y: -20}
+        - {x: -5, y: -32}
+        - {x: 5, y: -32}
+        - {x: 10, y: -31}
+        - {x: 12, y: -27}
+        - {x: 12, y: 2}
+        - {x: 9, y: 11}
+    - name: child_walk_light_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -26}
+        - {x: -8, y: -32}
+        - {x: 5, y: -32}
+        - {x: 10, y: -30}
+        - {x: 10, y: 11}
+        - {x: -10, y: 11}
+        - {x: -12, y: 4}
+    - name: child_walk_light_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 11}
+        - {x: -11, y: -22}
+        - {x: -9, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: 11}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

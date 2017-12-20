@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 84ba366857858ae45b98a5eaad499528
+timeCreated: 1464582730
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bull_0
+    21300002: bull_1
+    21300004: bull_2
+    21300006: bull_3
+    21300008: bull_4
+    21300010: bull_5
+    21300012: bull_6
+    21300014: bull_7
+    21300016: bull_8
+    21300018: bull_9
+    21300020: bull_10
+    21300022: bull_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bull_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22}
+        - {x: -16, y: -18}
+        - {x: -15, y: -23}
+        - {x: -11, y: -26}
+        - {x: 13, y: -26}
+        - {x: 16, y: -11}
+        - {x: 16, y: 21}
+        - {x: 12, y: 22}
+    - name: bull_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 22}
+        - {x: -16, y: 21}
+        - {x: -16, y: -22}
+        - {x: -7, y: -26}
+        - {x: 15, y: -26}
+        - {x: 16, y: -13}
+        - {x: 16, y: 20}
+        - {x: 12, y: 22}
+    - name: bull_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -16, y: -21}
+        - {x: -15, y: -24}
+        - {x: 9, y: -24}
+        - {x: 15, y: -20}
+        - {x: 16, y: -7}
+        - {x: 16, y: 24}
+    - name: bull_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 20}
+        - {x: -25, y: 3}
+        - {x: -26, y: -2}
+        - {x: -26, y: -23}
+        - {x: -24, y: -26}
+        - {x: 25, y: -26}
+        - {x: 26, y: -21}
+        - {x: 26, y: 13}
+        - {x: 16, y: 20}
+    - name: bull_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -14}
+        - {x: 26, y: 8}
+        - {x: 22, y: 22}
+        - {x: 2, y: 22}
+        - {x: -26, y: 5}
+        - {x: -26, y: -14}
+        - {x: -18, y: -25}
+        - {x: -15, y: -26}
+        - {x: -12, y: -26}
+        - {x: -9, y: -24}
+        - {x: -1, y: -26}
+        - {x: 15, y: -26}
+    - name: bull_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 22}
+        - {x: 7, y: 22}
+        - {x: -16, y: 15}
+        - {x: -24, y: 3}
+        - {x: -24, y: -20}
+        - {x: -15, y: -26}
+        - {x: 17, y: -26}
+        - {x: 28, y: -14}
+        - {x: 28, y: 8}
+    - name: bull_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22}
+        - {x: -16, y: -18}
+        - {x: -15, y: -23}
+        - {x: -11, y: -26}
+        - {x: 13, y: -26}
+        - {x: 16, y: -11}
+        - {x: 16, y: 21}
+        - {x: 12, y: 22}
+    - name: bull_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 22}
+        - {x: -16, y: 21}
+        - {x: -16, y: -22}
+        - {x: -7, y: -26}
+        - {x: 15, y: -26}
+        - {x: 16, y: -13}
+        - {x: 16, y: 20}
+        - {x: 12, y: 22}
+    - name: bull_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -16, y: -22}
+        - {x: -14, y: -28}
+        - {x: 11, y: -28}
+        - {x: 16, y: -17}
+        - {x: 16, y: 16}
+        - {x: 12, y: 20}
+    - name: bull_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -15, y: 20}
+        - {x: -26, y: 8}
+        - {x: -26, y: -10}
+        - {x: -19, y: -25}
+        - {x: -15, y: -26}
+        - {x: 22, y: -26}
+        - {x: 26, y: -24}
+        - {x: 26, y: -2}
+        - {x: 21, y: 12}
+    - name: bull_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -26, y: 10}
+        - {x: -26, y: -15}
+        - {x: -22, y: -26}
+        - {x: 26, y: -26}
+        - {x: 26, y: 9}
+        - {x: 13, y: 22}
+    - name: bull_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 22}
+        - {x: -21, y: 22}
+        - {x: -28, y: 17}
+        - {x: -28, y: -19}
+        - {x: -17, y: -26}
+        - {x: 21, y: -26}
+        - {x: 24, y: -19}
+        - {x: 24, y: 11}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
